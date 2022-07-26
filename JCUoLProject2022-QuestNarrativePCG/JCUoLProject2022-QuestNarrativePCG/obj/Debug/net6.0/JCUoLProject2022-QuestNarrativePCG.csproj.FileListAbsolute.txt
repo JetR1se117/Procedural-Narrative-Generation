@@ -1,0 +1,15 @@
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.exe
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.deps.json
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.runtimeconfig.json
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.dll
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\ref\JCUoLProject2022-QuestNarrativePCG.dll
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\bin\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.pdb
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.csproj.AssemblyReference.cache
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.AssemblyInfoInputs.cache
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.AssemblyInfo.cs
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.csproj.CoreCompileInputs.cache
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.dll
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\ref\JCUoLProject2022-QuestNarrativePCG.dll
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.pdb
+D:\uni\uni yr 3\Project\newCodebase\JCUoLProject2022-QuestNarrativePCG\JCUoLProject2022-QuestNarrativePCG\obj\Debug\net6.0\JCUoLProject2022-QuestNarrativePCG.genruntimeconfig.cache
